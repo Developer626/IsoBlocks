@@ -74,7 +74,6 @@ minLast.addElement(document.getElementById("n4b13"), "blue.png");
 // Setting up the clock to change only on the minute to save battery life.
 clock.granularity = "minutes";
 
-// 
 clock.ontick = (evt) => {
 
   
@@ -111,7 +110,6 @@ clock.ontick = (evt) => {
  *  and stop on the screen.
 */
 
-// 
 function update(){
   if(hrFirst.update()){
     boolHrFirst = true;
