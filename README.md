@@ -5,4 +5,5 @@ This was written to see what it would take to recreate the Pebble's IsoTime cloc
 face from scratch and what that code could look like.
 
 Writer of the current clone in this repository: Aaron Waruszewski
+
 Original creator of IsoTime is Chris Lewis https://github.com/C-D-Lewis
